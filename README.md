@@ -51,9 +51,12 @@ Choose an option:
 > 1
 
 Enter the long URL: https://example.com/blog/article
+
 Short URL: short.ly/Ak2Gh7
+
 > 2
 Enter the short code or full short URL: short.ly/Ak2Gh7
+
 Original URL: https://example.com/blog/article
 
 ## 📁 Project Structure
